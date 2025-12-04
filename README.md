@@ -10,7 +10,7 @@ The **Resume Refinement Agent** is an advanced AI-powered application designed t
 - **High-End, Responsive UI**: A modern, aesthetically pleasing interface built with React and Tailwind CSS, featuring smooth animations and a premium user experience.
 - **Export Utility**: One-click copy functionality to easily transfer refined content.
 
-## 🚀 Video Demo
+## Video Demo
 <p align="center">
   <img src="./assets/Demo video resume refining.gif" alt="Animated GIF showing the Resume Refinement Agent workflow." width="800"/>
 </p>
