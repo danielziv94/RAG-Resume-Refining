@@ -12,7 +12,7 @@ The **Resume Refinement Agent** is an advanced AI-powered application designed t
 
 ## 🚀 Video Demo
 <p align="center">
-  <img src="./assets/Demo video resume refining.webm" alt="Animated GIF showing the Resume Refinement Agent workflow." width="800"/>
+  <img src="./assets/Demo video resume refining.gif" alt="Animated GIF showing the Resume Refinement Agent workflow." width="800"/>
 </p>
 
 ## Technology Stack
