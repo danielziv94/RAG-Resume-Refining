@@ -11,7 +11,9 @@ The **Resume Refinement Agent** is an advanced AI-powered application designed t
 - **Export Utility**: One-click copy functionality to easily transfer refined content.
 
 ## 🚀 Video Demo
-A short video demonstration showing the full workflow of the Resume Refinement Agent, from PDF upload to final structured output. (Video link to be inserted here).
+<p align="center">
+  <img src="./assets/Demo video resume refining.webm" alt="Animated GIF showing the Resume Refinement Agent workflow." width="800"/>
+</p>
 
 ## Technology Stack
 - **AI & LLM**: Google Gemini API (`gemini-2.5-flash`)
